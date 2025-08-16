@@ -1,6 +1,6 @@
 # Diabetes_Classification-Biostatistics and Machine Learning
 
-Course assignment for Biostatistics and Machine Learning (NTUA, 2024), analyzing diabetes prediction using the Pima Indians Diabetes dataset.
+Course assignment for Biostatistics and Machine Learning (NTUA, Academic Year 2024–2025), analyzing diabetes prediction using the Pima Indians Diabetes dataset.
 
 ## Overview
 - **Dataset:** Pima Indians Diabetes dataset  
